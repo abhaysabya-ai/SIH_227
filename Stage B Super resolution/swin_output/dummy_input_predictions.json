@@ -1,0 +1,32 @@
+[
+  {
+    "class_id": 111,
+    "label": "nematode, nematode worm, roundworm",
+    "probability": 0.49832165241241455,
+    "percentage": "49.83%"
+  },
+  {
+    "class_id": 21,
+    "label": "kite",
+    "probability": 0.02379576675593853,
+    "percentage": "2.38%"
+  },
+  {
+    "class_id": 128,
+    "label": "black stork, Ciconia nigra",
+    "probability": 0.00931591261178255,
+    "percentage": "0.93%"
+  },
+  {
+    "class_id": 735,
+    "label": "poncho",
+    "probability": 0.006548112258315086,
+    "percentage": "0.65%"
+  },
+  {
+    "class_id": 701,
+    "label": "parachute, chute",
+    "probability": 0.005887222941964865,
+    "percentage": "0.59%"
+  }
+]
